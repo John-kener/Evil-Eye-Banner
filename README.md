@@ -31,26 +31,5 @@
 
 🔗    Our youtube channel : http://m.youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ
 
-# YOU CAN REMOVE YOUR BANNER USING THIS COMMAND - just copy and paste this long command and it will work..!!!
-
->echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then>         command_not_found_handle() {
->
->                  /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
->
->          }
->
->  fi
->
->  PS1= \$  " > /data/data/com.termux/files/usr/etc/zshrc
->
-> echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
->
->         command_not_found_handle() {
->
->                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
->
->         }
->
-> fi
->
-> PS1= \$  " > /data/data/com.termux/files/usr/etc/bash.bashrc
+# To remove the banner you can contact me on telegram to get the secret code...
+>  https://t.me/John_kenerr
